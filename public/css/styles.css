@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(83, 185, 209);
+  color: white;
+  font-family: 'Roboto';
+}
+
+h1, p {
+  text-align: center;
+}
+#buttons {
+  text-align:center;
+}
+
+a {
+  text-decoration: none;
+}
+
+.app {
+  width: 195px;
+  height: 60px;
+  margin: 50px;
+  padding: 5px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
