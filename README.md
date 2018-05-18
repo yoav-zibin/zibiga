@@ -5,6 +5,9 @@
 firebase login
 ```
 
+On MAC, first install
+`brew install wget`
+
 < Make changes >
 then:
 ```
